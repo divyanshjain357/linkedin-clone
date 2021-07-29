@@ -167,7 +167,7 @@ waitPageLoading();
                         <small>Front-End Developer</small>
                     </div>
                     <div id="profile-links">
-                        <a href="#">
+                        <a href="/">
                             <span>
                                 Who's viewed your profile
                             </span>
@@ -175,7 +175,7 @@ waitPageLoading();
                                 102
                             </span>
                         </a>
-                        <a href="#">
+                        <a href="/">
                             <span>
                                 Connections
                             </span>
@@ -185,7 +185,7 @@ waitPageLoading();
                         </a>
                     </div>
                     <span>Grow your network</span>
-                    <a href="#">
+                    <a href="/">
                         <span>Access exclusive tools & insights</span>
                         <span id="profile-premium">
                             <span id="profile-square">■</span> Try Premium
@@ -254,7 +254,7 @@ waitPageLoading();
                             </li>
                         </ul>
                         <div className="group-list">
-                            <a href="#">See all</a>
+                            <a href="/">See all</a>
                         </div>
                     </section>
                     <section>
@@ -280,9 +280,9 @@ waitPageLoading();
                                 <span>webdevelopment</span>
                             </li>
                         </ul>
-                        <a href="#">See all</a>
+                        <a href="/">See all</a>
                     </section>
-                    <a href="#">Discover more</a>
+                    <a href="/">Discover more</a>
                 </div>
             </aside>
         </div>
@@ -302,7 +302,7 @@ waitPageLoading();
                         <h1>Figma</h1>
                         <p style={{color: "#7d7d7d", fontWeight: "16px"}}>A Design Platform for teams who build product together</p>
                         <p style={{color: "#cecece", fontWeight: "14px"}}>Design . San Francisco, CA . 101,282 Followers </p>
-                        <a href="">
+                        <a href="/">
                             <p style={{color: "#0a66c2", fontWeight: "bold"}}>See all 352 employees on Likedin </p>
                         </a>
 
@@ -322,25 +322,25 @@ waitPageLoading();
                 <div className="profile-link-container">
                     <ul className="profile-link-list">
                         <li>
-                            <a href="">Overview</a>
+                            <a href="/">Overview</a>
                         </li>
                         <li>
-                            <a href="">About</a>
+                            <a href="/">About</a>
                         </li>
                         <li>
-                            <a href="">Products</a>
+                            <a href="/">Products</a>
                         </li>
                         <li>
-                            <a href="">Posts</a>
+                            <a href="/">Posts</a>
                         </li>
                         <li>
-                            <a href="">Jobs</a>
+                            <a href="/">Jobs</a>
                         </li>
                         <li>
-                            <a href="">People</a>
+                            <a href="/">People</a>
                         </li>
                         <li>
-                            <a href="">Videos</a>
+                            <a href="/">Videos</a>
                         </li>
                     </ul>
                 </div>
@@ -351,19 +351,19 @@ waitPageLoading();
                     <div className="company-details-card-container">
                         <div className="company-details-container">
                             <p>Website Url</p>
-                            <a href="" style={{textAlign: "left", width:"100%", position: "absolute",bottom: "1rem"}}>
+                            <a href="/" style={{textAlign: "left", width:"100%", position: "absolute",bottom: "1rem"}}>
                                 <p className="link-text">Figma.com</p>
                             </a>
                         </div>
                         <div className="company-details-container">
                             <p>Funding via Crunchbase</p>
                             <p>Series D</p>
-                            <a href="" style={{textAlign: "left", width:"100%"}}>
+                            <a href="/" style={{textAlign: "left", width:"100%"}}>
                                 <p className="link-text">USD $50 M</p>
                             </a>
                         </div>
                     </div>
-                    <a href="" style={{textAlign: "center", width:"100%", position: "absolute", bottom:"2rem", left:"0"}}>
+                    <a href="/" style={{textAlign: "center", width:"100%", position: "absolute", bottom:"2rem", left:"0"}}>
                         <p className="link-text">See all details</p>
                     </a>
                 </div>
